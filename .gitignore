@@ -1,0 +1,5 @@
+*.DS_Store
+selenium-ci-test.iml
+target/
+.idea/
+test-output
